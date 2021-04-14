@@ -3,7 +3,7 @@
 ### [my LinkedIn](https://www.linkedin.com/in/kensuke-sakama/)
 
 ### Skills:
-JavaScript
+![image](<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>)
 
 ### I am currently working on:
 - Updating an e-commerce site (I will update once it is complete)
