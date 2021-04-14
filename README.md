@@ -3,7 +3,7 @@
 ## [my LinkedIn](https://www.linkedin.com/in/kensuke-sakama/)
 
 ## I am currently working on:
-- Updating an e-commerce site (I will update once somewhat complete)
+- Updating an e-commerce site (I will update once it is complete)
 
 ## I am currently learning on...
 - TypeScript
