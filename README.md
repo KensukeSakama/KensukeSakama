@@ -13,11 +13,6 @@
 - DS&A
 - SQL
 
-### Fun fact:
-- grew up in Japan
-- a Hack Reactor Grad
-- an avid climber
-
 ## I am open to new opportunities!
 
 <!--
