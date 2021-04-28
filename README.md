@@ -8,7 +8,7 @@
 ### I am currently working on:
 - Updating an e-commerce site (I will update once it is complete)
 
-### I am currently learning on...
+### I am currently learning...
 - TypeScript
 - DS&A
 - SQL
